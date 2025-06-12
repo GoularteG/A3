@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="spring-boot-thymeleaf-example-master:jar">
+    <output-path>$PROJECT_DIR$/spring-boot-thymeleaf-example-master</output-path>
+    <root id="archive" name="spring-boot-thymeleaf-example-master.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/spring-boot-thymeleaf-example-master/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
